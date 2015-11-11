@@ -9,3 +9,8 @@ the staging area only contains the files that will be commited, the working dire
 the repository contains the different commits
 The staging area allows to commit only the files related to a single logical change, instead of all the modified files
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Just add the files linked to the logical change in the staging area and commit the changes when all the files related to this logical change are staged.
+
+
