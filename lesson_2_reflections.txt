@@ -25,3 +25,9 @@ They also help to see the whole structure of the repository quickly
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The changes of both branches are added, it is represented that way in the diagram because the merge is a new commit with a parent from each branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging makes the process of merging two branches quicker and less error-prone but it doesn't resolve all the possible conflicts
+
+
