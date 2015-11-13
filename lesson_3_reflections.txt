@@ -5,3 +5,9 @@ Using a remote repository can be useful when working on a project with more than
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Pulling manually ensures that the version we're working on remains in the same state all the time. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+a fork is a copy of a repository on the GitHub servers to a new repository on the GitHub server.
+a clone is a copy of a repository from the GitHub servers to a local machine
+a branch is a serie of commits in a repository
